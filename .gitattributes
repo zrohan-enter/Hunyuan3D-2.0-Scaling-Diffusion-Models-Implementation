@@ -1,0 +1,5 @@
+results/*.glb filter=lfs diff=lfs merge=lfs -text
+results/*.obj filter=lfs diff=lfs merge=lfs -text
+results/*.fbx filter=lfs diff=lfs merge=lfs -text
+results/*.ply filter=lfs diff=lfs merge=lfs -text
+results/*.mp4 filter=lfs diff=lfs merge=lfs -text
