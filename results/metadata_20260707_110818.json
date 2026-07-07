@@ -1,0 +1,21 @@
+{
+  "project": "Hunyuan3D 2.0 Research Paper Implementation",
+  "paper": "Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation",
+  "start_time": "2026-07-07T11:08:18.372134",
+  "input_image": "D:\\Academic\\Research paper\\Hunyuan3D 2.0 Scaling Diffusion Models\\src\\Hunyuan3D-2\\assets\\demo.png",
+  "output_directory": "D:\\Academic\\Research paper\\Hunyuan3D 2.0 Scaling Diffusion Models\\results",
+  "model_path": "tencent/Hunyuan3D-2",
+  "texture_requested": false,
+  "python": "3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "torch_version": "2.5.1+cu124",
+  "cuda_available": true,
+  "gpu": "NVIDIA GeForce RTX 4070",
+  "outputs": {
+    "shape_glb": "D:\\Academic\\Research paper\\Hunyuan3D 2.0 Scaling Diffusion Models\\results\\hunyuan3d_shape_only_20260707_110818.glb"
+  },
+  "status": "shape_generated",
+  "errors": [],
+  "end_time": "2026-07-07T11:33:52.842458",
+  "duration_seconds": 1534.470324
+}
